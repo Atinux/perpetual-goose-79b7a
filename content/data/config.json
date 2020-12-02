@@ -4,7 +4,7 @@
     "description": "A vanilla theme for Stackbit",
     "header": {
         "title": "Stackbit Vanilla",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
